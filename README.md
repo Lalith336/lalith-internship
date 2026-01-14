@@ -100,4 +100,4 @@ All tasks were developed, tested, and executed using Google Colab and then uploa
 ---
 
 ## 👤 Author
-**Praveen R**
+**Lalith Sharma R**
