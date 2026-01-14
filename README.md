@@ -7,14 +7,20 @@ Each task demonstrates the use of Artificial Intelligence, Natural Language Proc
 
 ## 📁 Project Structure
 
-Internship/
+Internship-main/
 │
-├── internship/
-│ ├── Task-1_Text_Summarization/
-│ ├── Task-2_Speech_To_Text/
-│ ├── Task-3_Neural_Style_Transfer/
-│ └── Task-4_Text_Generation/
-│
+├── task 1/
+│   └── text_summarizer.ipynb
+├── task 2/
+│   └── speech_to_text.ipynb
+├── task 3/
+│   ├── neural_style_transfer.ipynb
+│   ├── content.jpg
+│   ├── style.jpg
+│   └── styled_output.jpg
+├── task 4/
+│   └── working_gpt.py
+├── .gitignore
 └── README.md
 
 ---
@@ -28,7 +34,7 @@ Extractive text summarization using Natural Language Processing techniques.
 
 **Technologies Used:**
 - Python
-- NLTK
+- Transformers (BART)
 - Google Colab
 
 ---
@@ -93,6 +99,5 @@ All tasks were developed, tested, and executed using Google Colab and then uploa
 
 ---
 
-## 👤 Author :Praveen R
+## 👤 Author
 **Praveen R**
-
